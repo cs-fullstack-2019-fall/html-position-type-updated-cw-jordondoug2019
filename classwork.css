@@ -1,0 +1,45 @@
+.header{
+    display: block;
+    background-color: lightgrey;
+    text-align: center;
+    position: relative;
+    height: 200px;
+    left: 5px;
+    right: 40px;
+    padding: 20px;
+}
+.section{
+    display: inline-block ;
+    background-color:lightgrey;
+    position: relative;
+    bottom: 40px;
+    left: 75px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    padding: 20px;
+}
+.aside{
+    display: inline-block;
+    background-color: lightgrey;
+    position: relative;
+    top: 40px;
+    left:300px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    padding: 20px;
+}
+.footer{
+    display: block;
+    background-color: lightgrey;
+    position: relative;
+    text-align: center;
+    top: 60px;
+    height: 150px;
+    padding: 40px;
+}
+.paragraph{
+    text-align: center;
+    margin: 60px;
+}
